@@ -93,6 +93,7 @@ setup(
     long_description=long_description,
     author=', '.join(__authors__),
     author_email=__authors__[0].split('<')[1].strip().strip('>'),
+    url='https://github.com/hobson/pug-nlp',
 
     #tests_require=['django-setuptest', 'south'],
     #test_suite='setuptest.setuptest.SetupTestSuite',
